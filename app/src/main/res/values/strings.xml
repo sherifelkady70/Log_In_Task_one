@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name"> Log_In_Task</string>
+    <string name="facebook">facebook</string>
+    <string name="EmailPartition"> Email or phone number </string>
+    <string name="pass">  Password </string>
+    <string name="signin">  Sign Up for Facebook </string>
+    <string name="logbtn">  Log In </string>
+    <string name="helpcenter">  Help Center </string>
+</resources>
